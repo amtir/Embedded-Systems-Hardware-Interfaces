@@ -25,3 +25,6 @@
 [submodule "Sensors/Temperature-DS18B20"]
 	path = Sensors/Temperature-DS18B20
 	url = https://github.com/amtir/Temperature_DS18B20_Python
+[submodule "Sensors/1Wire-iButton"]
+	path = Sensors/1Wire-iButton
+	url = https://github.com/amtir/1Wire_iButton
