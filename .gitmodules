@@ -16,3 +16,6 @@
 [submodule "Sensors/UltraSonic-Distance-Sensors"]
 	path = Sensors/UltraSonic-Distance-Sensors
 	url = https://github.com/amtir/Ultrasonic_Distance_Sensors
+[submodule "Sensors/Gesture-Recognition-Sensor"]
+	path = Sensors/Gesture-Recognition-Sensor
+	url = https://github.com/amtir/Multiplexing_Gesture_Recognition_Sensors_I2C
