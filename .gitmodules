@@ -34,3 +34,6 @@
 [submodule "IoT_Connectivity/NanoPi_IoT_Gateway"]
 	path = IoT_Connectivity/NanoPi_IoT_Gateway
 	url = https://github.com/amtir/NanoPi_IoT_Gateway
+[submodule "IoT_Connectivity/NB-IoT_SIM7000"]
+	path = IoT_Connectivity/NB-IoT_SIM7000
+	url = https://github.com/amtir/QoS_NB-IoT_SIM7000
