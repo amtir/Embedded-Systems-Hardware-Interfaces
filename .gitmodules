@@ -4,3 +4,9 @@
 [submodule "Analog_Digital_Converters/MCP3424_ADC_18bits_PGA"]
 	path = Analog_Digital_Converters/MCP3424_ADC_18bits_PGA
 	url = https://github.com/amtir/MCP3424_ADC_18bits_PGA
+[submodule "Weather_Station/NMEA_LCD_DISPLAY"]
+	path = Weather_Station/NMEA_LCD_DISPLAY
+	url = https://github.com/amtir/NMEA_LCD_DISPLAY
+[submodule "Weather_Station/PC_program_NET_DISPLAY_NMEA"]
+	path = Weather_Station/PC_program_NET_DISPLAY_NMEA
+	url = https://github.com/amtir/PC_program_NET_Display_NMEA
