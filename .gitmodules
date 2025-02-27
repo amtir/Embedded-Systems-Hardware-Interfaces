@@ -40,3 +40,6 @@
 [submodule "IoT_Connectivity/RTC_Synchronization"]
 	path = IoT_Connectivity/RTC_Synchronization
 	url = https://github.com/amtir/RTC_Network_Time_Synchronization
+[submodule "IoT_Connectivity/SMS_parser"]
+	path = IoT_Connectivity/SMS_parser
+	url = https://github.com/amtir/sms_parser
