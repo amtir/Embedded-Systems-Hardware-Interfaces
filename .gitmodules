@@ -37,3 +37,6 @@
 [submodule "IoT_Connectivity/NB-IoT_SIM7000"]
 	path = IoT_Connectivity/NB-IoT_SIM7000
 	url = https://github.com/amtir/QoS_NB-IoT_SIM7000
+[submodule "IoT_Connectivity/RTC_Synchronization"]
+	path = IoT_Connectivity/RTC_Synchronization
+	url = https://github.com/amtir/RTC_Network_Time_Synchronization
