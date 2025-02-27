@@ -28,3 +28,6 @@
 [submodule "Sensors/1Wire-iButton"]
 	path = Sensors/1Wire-iButton
 	url = https://github.com/amtir/1Wire_iButton
+[submodule "Sensors/RFID-NFC"]
+	path = Sensors/RFID-NFC
+	url = https://github.com/amtir/RFID_NFC_NXP_PN512_Python
