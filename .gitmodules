@@ -31,3 +31,6 @@
 [submodule "Sensors/RFID-NFC"]
 	path = Sensors/RFID-NFC
 	url = https://github.com/amtir/RFID_NFC_NXP_PN512_Python
+[submodule "IoT_Connectivity/NanoPi_IoT_Gateway"]
+	path = IoT_Connectivity/NanoPi_IoT_Gateway
+	url = https://github.com/amtir/NanoPi_IoT_Gateway
