@@ -10,3 +10,9 @@
 [submodule "Weather_Station/PC_program_NET_DISPLAY_NMEA"]
 	path = Weather_Station/PC_program_NET_DISPLAY_NMEA
 	url = https://github.com/amtir/PC_program_NET_Display_NMEA
+[submodule "Sensors/TOF-Proximity-Sensors"]
+	path = Sensors/TOF-Proximity-Sensors
+	url = https://github.com/amtir/TOF_Sensors_UART_Cascade
+[submodule "Sensors/UltraSonic-Distance-Sensors"]
+	path = Sensors/UltraSonic-Distance-Sensors
+	url = https://github.com/amtir/Ultrasonic_Distance_Sensors
