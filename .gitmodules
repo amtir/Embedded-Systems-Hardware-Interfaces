@@ -1,3 +1,6 @@
 [submodule "Automotive/OBDII_PC_Program_GUI"]
 	path = Automotive/OBDII_PC_Program_GUI
 	url = https://github.com/amtir/OBDII_PC_Program_GUI
+[submodule "Analog_Digital_Converters/MCP3424_ADC_18bits_PGA"]
+	path = Analog_Digital_Converters/MCP3424_ADC_18bits_PGA
+	url = https://github.com/amtir/MCP3424_ADC_18bits_PGA
