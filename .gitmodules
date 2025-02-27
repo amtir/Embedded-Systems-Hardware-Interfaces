@@ -19,3 +19,6 @@
 [submodule "Sensors/Gesture-Recognition-Sensor"]
 	path = Sensors/Gesture-Recognition-Sensor
 	url = https://github.com/amtir/Multiplexing_Gesture_Recognition_Sensors_I2C
+[submodule "Sensors/Liquid-Level-Sensor"]
+	path = Sensors/Liquid-Level-Sensor
+	url = https://github.com/amtir/Liquid_Level_Detection
