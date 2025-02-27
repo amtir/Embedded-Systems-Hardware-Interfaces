@@ -1,0 +1,3 @@
+[submodule "Automotive/OBDII_PC_Program_GUI"]
+	path = Automotive/OBDII_PC_Program_GUI
+	url = https://github.com/amtir/OBDII_PC_Program_GUI
